@@ -1,6 +1,6 @@
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jasnoludek&show_icons=true&theme=gotham" />
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasnoludek&layout=compact" />
 
